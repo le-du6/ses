@@ -18,38 +18,38 @@ Les apports concrets proposés aux élèves sont la présentation du caractère 
 
 ## Contenu, plan du cours
 
-Partie 1 : Introduction
+### Partie 1 : Introduction
 - Rappels sur la signature électronique (cryptographie asymétrique, hachage, IGC, certificats).
 - Introduction au contexte légal (lois et règlements).
 
-Partie 2 : Appréhension du contexte juridique de la signature électronique
+### Partie 2 : Appréhension du contexte juridique de la signature électronique
 - Le contexte légal.
 - Les formats de signature normalisés.
 
-Partie 3 : Cas particulier de la signature électronique sécurisée.
+### Partie 3 : Cas particulier de la signature électronique sécurisée.
 - Aspects juridiques / Aspects organisationnels / - Aspects techniques.
 
-Partie 4 : Les dispositifs de création de signature (normes et standards)
+### Partie 4 : Les dispositifs de création de signature (normes et standards)
 - Les aspects normatifs des SSCD et HSM.
 - Les matériels et les solutions disponibles.
 
-Partie 5 : Travaux Pratiques : « Mise en oeuvre de la Signature Electronique Sécurisée »
-a) Introduction
+### Partie 5 : Travaux Pratiques : « Mise en oeuvre de la Signature Electronique Sécurisée »
+**a) Introduction**
 Utilisation de OpenSSL
 objectifs : appréhender l'utilisation de la signature avec OpenSSL *(PKCS#1, RFC 5280, ASN1, XMLDSIG, C14N, XAdES et XMLDSIG)* Travail élève : devenir autonome avec OpenSSL en 1h30
-b) Rappels Cryptographiques
+**b) Rappels Cryptographiques**
 objectifs : appréhender l'utilisation de la signature avec OpenSSL
 (PKCS#1, RFC 5280, ASN1, XMLDSIG, C14N, XAdES et XMLDSIG)
 travail élève : devenir autonome avec OpenSSL en 1h30
-c) Formats des fichiers
+**c) Formats des fichiers**
 Analyse détaillée d'un certificat cryptographique de signature
 objectifs : appréhender la complexité technique de la mise en oeuvre de la signature électronique sécurisée
 travail élève : utiliser une application de création de signature (sécurisée)
-d) Signature électronique au format XAdES
+**d) Signature électronique au format XAdES**
 objectifs : appréhender la complexité technique de la mise en oeuvre de la signature électronique sécurisée
 travail élève : analyse du format XAdES : comment vérifier une signature électronique sécurisée
 
-## Partie 6 : Retours d’expériences réels :
+### Partie 6 : Retours d’expériences réels :
 Signature Fail ! Pourquoi cela ne fonctionne pas bien ? Les nouvelles normes européennes en préparation.
 - Dématérialisation des transferts de l’état civil - ANTS
 - Projet MINOS – Ministère de la Justice – DPICA – ANTS
