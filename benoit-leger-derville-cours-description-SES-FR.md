@@ -7,8 +7,8 @@
 (cryptographie symétrique et asymétrique de niveau au moins débutant)
 *[Sinon les aspects cryptos sont embraqués dans le cours]*
 
-## Objectifs, Résumé du cours ou de l'activité pédagogique
-Ce cours propose d’appréhender les difficultés inhérentes à la mise en œuvre de la signature électronique au sein de projets réels à grande échelle.
+## Objectifs du cours
+Ce cours propose d’appréhender les difficultés inhérentes à la mise en œuvre de la signature électronique au sein de projets réels à grande échelle (les radars automatiques, la verbalisation électronique, le passeport biométrique et la sécurisation des données de l'état civil).
 
 L’un des objectifs est de faire prendre conscience aux élèves de la complexité des aspects organisationnels, juridiques et culturels d’une mise en œuvre effective de la signature électronique, malgré son niveau de sécurité technique théorique (cryptographique).
 
@@ -17,17 +17,22 @@ Dans un premier temps, et après quelques rappels cryptographiques, la finalité
 Les apports concrets proposés aux élèves sont la présentation du caractère complexe et vulnérable des mises en œuvres (travaux pratiques), l’utilisation d’un corpus normatif riche mais peu connu, la synthèse des textes principaux et surtout la prise de conscience d’une méconnaissance généralisée de ce que représente l’intérêt de la signature électronique au sein des entreprises elles-mêmes.
 
 ## Contenu, plan du cours
+
 Partie 1 : Introduction
 - Rappels sur la signature électronique (cryptographie asymétrique, hachage, IGC, certificats).
 - Introduction au contexte légal (lois et règlements).
+
 Partie 2 : Appréhension du contexte juridique de la signature électronique
 - Le contexte légal.
 - Les formats de signature normalisés.
+
 Partie 3 : Cas particulier de la signature électronique sécurisée.
 - Aspects juridiques / Aspects organisationnels / - Aspects techniques.
+
 Partie 4 : Les dispositifs de création de signature (normes et standards)
 - Les aspects normatifs des SSCD et HSM.
 - Les matériels et les solutions disponibles.
+
 Partie 5 : Travaux Pratiques : « Mise en oeuvre de la Signature Electronique Sécurisée »
 a) Introduction
 Utilisation de OpenSSL
